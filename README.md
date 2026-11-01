@@ -2,6 +2,18 @@
 
 Turn a JSON field on any Twenty object into a repeater: a list of items whose attributes you define in settings.
 
+## Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/record-widget.png" alt="Repeater widget on a Quote record page, with Items and Variables lists that have Name, Description, Price and Amount columns" width="420">
+  <br><em>Repeater widget on a record page</em>
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/settings.png" alt="Repeaters settings page, where you set a repeater's object, JSON field and attributes with their types and required flags" width="800">
+  <br><em>Defining repeaters and their attributes in settings</em>
+</p>
+
 ## Features
 
 - Repeaters on any object, each bound to a RAW_JSON field (pick one or create it from settings)
